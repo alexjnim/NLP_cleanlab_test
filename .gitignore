@@ -2,10 +2,10 @@
 .vscode/
 *__pycache__
 *.ipynb_checkpoints
-data/
+data/*
 !data/info.txt
 testing_scripts
 *.ipynb
-resources/get_embeddings
+resources/get_embeddings/*
 !resources/get_embeddings/get_TFIDF_embeddings.py
 
