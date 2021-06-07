@@ -1,3 +1,6 @@
+# https://l7.curtisnorthcutt.com/confident-learning
+# https://www.depends-on-the-definition.com/confident-learning-for-nlp/
+
 import pandas as pd
 from pathlib import Path
 from sklearn.model_selection import train_test_split
